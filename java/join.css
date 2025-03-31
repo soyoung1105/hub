@@ -1,0 +1,29 @@
+* { box-sizing: border-box; }
+html, bodyn{
+    margin: 0;
+    padding: 0;
+    background-color: #bbe4af;
+}
+
+#container {
+    width: 640px;
+    margin: 60 auto 0; 
+    background-color: rgb(230, 238, 225);
+    border-radius: 15px;
+}
+
+form {
+    padding: 20px;
+    border: 1.5px solid;
+    border-radius: 15px;
+}
+
+.table {
+    width: 80%;
+    margin: auto;
+}
+th {
+    width: 40%;
+    text-align: right;
+    padding: 5px;
+}
